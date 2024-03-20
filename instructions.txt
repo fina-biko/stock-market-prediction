@@ -1,0 +1,7 @@
+STOCK MARKET PREDICTION USING NUMERICAL AND TECXTUAL ANLYSIS
+Objective:Create a hybrif model for stock performance prediction using numerical anlysis of historical stock proces and sentimental anaylis od news headlines
+Stock to analyze and predict-(SENSEX(S&P BSE SENSEX)
+download the hostproical stock prizes from https://finance.yahoo.com/
+download the textual news data from   https://bit.ly/36fFPI6
+use either R or python or both for separate analysis and then comnine the findings to ccreate a hybrid model
+ypu are free tpo select a different stock to anlyze the news datset asd well while not changuing the objective of the task.
